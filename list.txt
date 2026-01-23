@@ -5,7 +5,7 @@ The Witcher
 Shadow and Bone
 Vikings: Valhalla
 Cursed
-The Last Kingdom: Seven Kings Must Die
+The Last Kingdom Seven Kings Must Die
 The Last Kingdom
 Britannia
 Reign
@@ -38,7 +38,7 @@ Galavant
 Once Upon a Time
 Outlander
 Poldark
-Jonathan Strange & Mr Norrell
+Jonathan Strange Mr Norrell
 El Cid
 El Ministerio del Tiempo
 Le Bureau des Légendes
@@ -46,13 +46,13 @@ The Tudors
 Barbarians
 Harlots
 Knight School
-Arthur & Merlin
+Arthur Merlin
 Wizards and Warriors
-Kingdoms of Amalur: Reckoning
+Kingdoms of Amalur Reckoning
 Game of Thrones
 The Rings of Power
 The Shannara Chronicles
-The Witcher: Blood Origin
+The Witcher Blood Origin
 Legend of the Seeker
 The Outpost
 The Bastard Executioner
@@ -96,7 +96,7 @@ Versailles
 The Borgias
 Barbarians
 Harlots
-Jonathan Strange & Mr Norrell
+Jonathan Strange Mr Norrell
 Victoria
 Marco Polo
 Shadow and Bone
@@ -104,54 +104,54 @@ Cursed
 Once Upon a Time
 Outlander
 Legend of the Seeker
-The Witcher: Blood Origin
+The Witcher Blood Origin
 The Rings of Power
 House of the Dragon
 The Wheel of Time
 A Knight of the Seven Kingdoms
-Excalibur: The Series
+Excalibur The Series
 The Adventures of Robin Hood
 Ivanhoe
 The Adventures of King Arthur
 Knights of the Round Table
-Dragonheart: The Series
+Dragonheart
 The Quest
 Arthur of the Britons
 Robin of Sherwood
 Young Blades
-Merlin: The Legendary Series
-Legend of the Seeker: The Complete Series
-The Bastard Executioner: Complete Series
+Merlin The Legendary Series
+Legend of the Seeker
+The Bastard Executioner
 The Adventures of Sir Lancelot
-The Hollow Crown: Shakespearean History
-Beowulf: Legend of the Sword
-The Pillars of the Earth: Miniseries
-World Without End: Miniseries
-Vikings: Historical Saga
-Reign: Complete Series
-The White Queen: Complete Series
-The White Princess: Complete Series
-Knightfall: Complete Series
-Camelot: Miniseries
-Merlin: Complete Series
-The Last Kingdom: Complete Series
-Britannia: Complete Series
-Game of Thrones: Complete Series
-Poldark: Complete Series
-The Tudors: Complete Series
-Versailles: Complete Series
-The Borgias: Complete Series
-Barbarians: Complete Series
-Harlots: Complete Series
-Jonathan Strange & Mr Norrell: Complete Series
-Victoria: Complete Series
-Marco Polo: Complete Series
-Shadow and Bone: Complete Series
-Cursed: Complete Series
-Once Upon a Time: Complete Series
-Outlander: Complete Series
-Legend of the Seeker: Complete Series
-The Witcher: Complete Series
-The Rings of Power: Complete Series
-House of the Dragon: Complete Series
-The Wheel of Time: Complete Series
+The Hollow Crown
+Beowulf Legend of the Sword
+The Pillars of the Earth
+World Without End
+Vikings
+Reign
+The White Queen
+The White Princess
+Knightfall
+Camelot
+Merlin
+The Last Kingdom
+Britannia
+Game of Thrones
+Poldark
+The Tudors
+Versailles
+The Borgias
+Barbarians
+Harlots
+Jonathan Strange Mr Norrell
+Victoria
+Marco Polo
+Shadow and Bone
+Cursed
+Once Upon a Time
+Outlander
+Legend of the Seeker
+The Witcher
+The Rings of Power
+House of the Dragon
+The Wheel of Time
